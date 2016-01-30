@@ -4,7 +4,7 @@ var config = {
   'rethinkdb': {
     'host': 'localhost',
     'port': 28015,
-    'db': 'rethinkdb_angular'
+    'db': 'chat'
   },
   'ports' : {
     'http' : 8000
